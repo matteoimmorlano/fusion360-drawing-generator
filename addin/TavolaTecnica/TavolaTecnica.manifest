@@ -1,0 +1,13 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "addin",
+  "id": "b22c131a-5fb2-44ca-ba02-a7b72ee79475",
+  "author": "Matteo Immorlano",
+  "description": {
+    "": "Genera la tavola tecnica A3 del design attivo (dati del cartiglio salvati nel design)"
+  },
+  "version": "1.0.0",
+  "runOnStartup": true,
+  "supportedOS": "mac",
+  "editEnabled": true
+}

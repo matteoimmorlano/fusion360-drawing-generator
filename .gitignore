@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# ricette dei propri pezzi/clienti: restano in locale, nel repo solo gli esempi
+ricette/*
+!ricette/example_*.py
